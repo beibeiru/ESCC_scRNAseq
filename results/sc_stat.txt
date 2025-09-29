@@ -1,0 +1,6 @@
+geneNumber	cellNumber	cellNumberAfterFiltering	cellPercentageAfterFiltering
+H0	33538	9593	9059	94%
+H6	33538	2611	1957	75%
+H48	33538	2073	1149	55%
+D77	33538	6038	3322	55%
+D145m	33538	6397	4499	70%
